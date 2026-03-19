@@ -121,7 +121,11 @@ User → Frontend → Backend → AI Model → Decision Engine → Payout
 
 ## 👥 Team
 
-* Your Name
+* Pari Sisodiya
+* Dhruvil Tejani
+* Himanshu Prusty
+* Bhumika Anil Sisodiya
+* Om Pratap Singh
 
 ---
 
