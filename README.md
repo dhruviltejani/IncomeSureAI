@@ -115,7 +115,7 @@ User → Frontend → Backend → AI Model → Decision Engine → Payout
 
 ## 🎥 Demo Video
 
-*(Add your video link here after recording)*
+*https://youtu.be/a4E798fR12s*
 
 ---
 
